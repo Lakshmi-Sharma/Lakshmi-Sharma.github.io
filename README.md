@@ -1,8 +1,3 @@
 # Lakshmi-Sharma.github.io
 
-Can I actually update stuff off my phone?
-Oh yeah!
-
-Lol
-
-Bhenchod
+<a href="/recipes/vegetable-kofta.md/">Recipe</a>
