@@ -1,1 +1,1 @@
-<a href="/recipes/vegetable-kofta.md">Recipe</a>
+<a href="/recipes/vegetable-kofta.md">Recipes</a>
